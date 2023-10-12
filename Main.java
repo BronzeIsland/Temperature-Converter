@@ -4,7 +4,7 @@ Zain Chaudhry on 9-14-22
 Credit to Georgy, Ryan and Mariel
 */
 
-
+import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
